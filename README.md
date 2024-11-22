@@ -48,16 +48,3 @@
 </p>
 
 ---
-
-## 🌟 Fun Facts About Me as a Flutter Developer 🌟
-🚀 My first app? It was a counter app! Classic, right?
-🔄 Hot reload is my superpower — mistakes vanish in milliseconds!
-🎨 State management debates: Provider? GetX? Bloc? I just love coding; no drama!
-🤓 Best debugging technique: Print statements! (Who needs Debugger anyway?)
-🌟 Most satisfying moment: When the UI looks pixel-perfect on both Android and iOS.
-🐛 Biggest fear: The infamous RenderFlex overflow error 😱.
-🏗️ Dream Flutter app: Building a cross-platform AI assistant that writes Flutter code for me!
-🌍 Flutter love: It’s amazing how one codebase can make an app look stunning on both Android and iOS.
-💡 Favorite Flutter tip: Use MediaQuery wisely — responsive UIs make users happy!
-
------------
