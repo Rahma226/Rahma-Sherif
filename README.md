@@ -13,7 +13,6 @@
 
 - 🎓 I’m currently a Computer Science student at Faculty of Information and Computer Science, Damanhur University.
 - 🧑‍💻 Specializing in **Flutter Development**.
-- 🌱 Continuously learning advanced state management tools like **GetX** and improving my problem-solving skills.
 - 💬 Ask me about Flutter, Dart, or building clean, responsive UIs.
 - 📧 Reach me at: [my email](sherifrahma829@gmail.com).
 
