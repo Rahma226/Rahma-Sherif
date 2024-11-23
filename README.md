@@ -38,13 +38,3 @@
 </div>
 
 ---
-
-## 🌟 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahma266&show_icons=true&theme=radical&count_private=true" alt="Rahma's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahma266&theme=radical" alt="Rahma's Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahma266&layout=compact&theme=radical" alt="Rahma's Top Languages" />
-</p>
-
----
